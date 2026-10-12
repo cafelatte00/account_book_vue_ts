@@ -1,3 +1,5 @@
+<img width="683" height="596" alt="image" src="https://github.com/user-attachments/assets/391e7e30-a88b-46d3-8ed4-d5b3fbf0cf3d" />
+
 # account_book_vue_ts
 
 This template should help get you started developing with Vue 3 in Vite.
