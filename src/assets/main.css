@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  color: #343a40;
+}
+.container {
+  padding: 0 24px;
+}
+h2 {
+  color: #354f4b;
+  font-size: 24px;
+  font-weight: 600;
+  /* margin-bottom: 20px; */
+  line-height: 1.4;
+}
